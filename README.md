@@ -8,34 +8,34 @@
 # 👋 Hi, I'm **helloalt12**
 ### 🔥 Roblox Scripter • Luau Developer • Systems Engineer
 
-I develop **clean, modular, and scalable gameplay systems** for Roblox using Luau, ModuleScript architecture, and Rojo workflow.  
-Focused on maintainable code, professional structure, and efficient development.
+I develop **clean, modular, and scalable gameplay systems** for Roblox using Luau, ModuleScript architecture, and a Rojo-based workflow.  
+Focused on maintainable code, professional structure, and high-efficiency systems.
 
 ---
 
 # 🎮 Roblox Development Skills
 
 ### 🧠 Core Scripting
-- RemoteEvents/Functions  
-- Character & physics gameplay  
-- OOP patterns (metatables, constructors)  
+- RemoteEvents & RemoteFunctions  
+- Character / physics gameplay  
+- OOP patterns (constructors, metatables)  
 - DataStore & ProfileService  
-- UI scripting & transitions  
+- UI scripting, transitions & animations  
 - Systems logic & state machines  
-- Optimization & code refactoring  
+- Optimization, code cleanup & refactoring  
 
 ### 🔧 Tools & Workflow
-- Rojo + VSCode  
-- GitHub versioning  
+- Rojo + Visual Studio Code  
+- GitHub version control  
 - Roblox Studio Team Create  
 - Luau type checking  
-- Modular architecture  
-- Automated structure  
+- Modular architecture patterns  
+- Automated project structure  
 
 ---
 
 # 🎬 Portfolio Video Showcase  
-> Berikut adalah 6 video demo profesional yang menunjukkan kemampuan scripting, UI, mekanik game, dan sistem modular yang saya buat.
+> Here are **6 professional scripting showcases**, demonstrating UI systems, gameplay mechanics, frameworks, and modular tools.
 
 ---
 
@@ -72,13 +72,13 @@ Focused on maintainable code, professional structure, and efficient development.
 # 🚀 Featured Systems
 
 ### 🧩 **UI Framework**
-Reusable UI system with animation controllers, easing, and transitions.
+A reusable UI architecture that supports animation controllers, easing functions, transitions, and component logic.
 
 ### ⚙️ **Utility Toolkit**
-Signal module, state manager, module loader, controller architecture.
+Includes signal modules, state managers, module loaders, automated controllers, and helper utilities.
 
 ### 🎮 **Gameplay Systems**
-Combat logic, effects, cooldowns, character mechanics, physics interactions.
+Combat logic, cooldown systems, VFX timing, physics mechanics, and character interactions.
 
 ---
 
