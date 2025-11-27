@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/header-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloalt12/helloalt12/banner">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/header-light.png">
   <img alt="Header" src="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/header-light.png">
 </picture>
