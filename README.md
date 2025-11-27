@@ -6,4 +6,4 @@
 Roblox Developer | Scripter | Web Dev  
 🔥 Love to build, code, and experiment!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helloalt12&show_icons=true&theme=tokyonight)
