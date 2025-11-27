@@ -1,15 +1,33 @@
 <!-- HEADER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloalt12/helloalt12/banner">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloalt12/helloalt12/banner">
-  <img alt="Header" src="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/header-light.png">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/header-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/header-light.png">
+    <img alt="Header" src="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/header-light.png" width="100%">
+  </picture>
+</p>
 
-# 👋 Hi, I'm **helloalt12**
-### 🔥 Roblox Scripter • Luau Developer • Systems Engineer
+<!-- NAME -->
+<h1 align="center">👋 Hi, I'm <strong>helloalt12</strong></h1>
+<h3 align="center">🔥 Roblox Scripter • Luau Developer • Systems Engineer</h3>
 
-I develop **clean, modular, and scalable gameplay systems** for Roblox using Luau, ModuleScript architecture, and a Rojo-based workflow.  
-Focused on maintainable code, professional structure, and high-efficiency systems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Luau-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Editor-VSCode-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Framework-Rojo-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub-Automated-black?style=for-the-badge">
+</p>
+
+---
+
+# 🚀 About Me
+I create **clean, scalable, and modular gameplay systems** for Roblox using professional development workflows like **Rojo**, **VSCode**, **Git**, and strongly typed Luau.
+
+My focus:
+- ⚡ High-performance systems  
+- 🧩 Modular architecture  
+- 🔁 Reusable frameworks  
+- ✔️ Professional project structure  
 
 ---
 
@@ -17,74 +35,116 @@ Focused on maintainable code, professional structure, and high-efficiency system
 
 ### 🧠 Core Scripting
 - RemoteEvents & RemoteFunctions  
-- Character / physics gameplay  
-- OOP patterns (constructors, metatables)  
-- DataStore & ProfileService  
-- UI scripting, transitions & animations  
-- Systems logic & state machines  
-- Optimization, code cleanup & refactoring  
+- Character physics & gameplay  
+- OOP (constructors, metatables, inheritance)  
+- DataStore + ProfileService  
+- UI logic, animations & tween frameworks  
+- System logic & state machines  
+- Optimization & refactoring  
 
 ### 🔧 Tools & Workflow
 - Rojo + Visual Studio Code  
-- GitHub version control  
-- Roblox Studio Team Create  
-- Luau type checking  
-- Modular architecture patterns  
-- Automated project structure  
+- GitHub versioning  
+- Type-checked Luau  
+- ModuleScript architectures  
+- Automated directory structure  
 
 ---
 
 # 🎬 Portfolio Video Showcase  
-> Here are **6 professional scripting showcases**, demonstrating UI systems, gameplay mechanics, frameworks, and modular tools.
+> **6 high-quality showcases** featuring gameplay systems, UI frameworks, and tools.
 
 ---
 
-### 🎥 **1. UI Animation System — Smooth Transitions & Components**  
-[![UI Animation Demo](https://img.youtube.com/vi/VIDEO_ID_1/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_1)
+# 🎞️ **Showcase Grid**
+<table>
+<tr>
+<td>
+
+### 🎥 UI Animation System  
+<a href="https://youtu.be/VIDEO_ID_1">
+  <img src="https://img.youtube.com/vi/VIDEO_ID_1/maxresdefault.jpg" width="100%">
+</a>
+
+</td>
+<td>
+
+### 🎥 Combat / Ability System  
+<a href="https://youtu.be/VIDEO_ID_2">
+  <img src="https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg" width="100%">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎥 Inventory System  
+<a href="https://youtu.be/VIDEO_ID_3">
+  <img src="https://img.youtube.com/vi/VIDEO_ID_3/maxresdefault.jpg" width="100%">
+</a>
+
+</td>
+<td>
+
+### 🎥 NPC AI System  
+<a href="https://youtu.be/VIDEO_ID_4">
+  <img src="https://img.youtube.com/vi/VIDEO_ID_4/maxresdefault.jpg" width="100%">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎥 Data & Progression  
+<a href="https://youtu.be/VIDEO_ID_5">
+  <img src="https://img.youtube.com/vi/VIDEO_ID_5/maxresdefault.jpg" width="100%">
+</a>
+
+</td>
+<td>
+
+### 🎥 UI Framework / Toolkit  
+<a href="https://youtu.be/VIDEO_ID_6">
+  <img src="https://img.youtube.com/vi/VIDEO_ID_6/maxresdefault.jpg" width="100%">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎥 **2. Ability / Combat System — Effects, Timing, Server Sync**  
-[![Combat System Demo](https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_2)
-
----
-
-### 🎥 **3. Custom Inventory System — Drag, Drop, Slot Logic**  
-[![Inventory Demo](https://img.youtube.com/vi/VIDEO_ID_3/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_3)
-
----
-
-### 🎥 **4. NPC System — Movement, Detection, Behavior Logic**  
-[![NPC System Demo](https://img.youtube.com/vi/VIDEO_ID_4/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_4)
-
----
-
-### 🎥 **5. Data & Progression System — Saving, Loading, Stats**  
-[![Data System Demo](https://img.youtube.com/vi/VIDEO_ID_5/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_5)
-
----
-
-### 🎥 **6. UI Framework / Utility Toolkit — Modules & Reusable Functions**  
-[![Toolkit Demo](https://img.youtube.com/vi/VIDEO_ID_6/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_6)
-
----
-
-# 🚀 Featured Systems
+# 🧩 Featured Systems
 
 ### 🧩 **UI Framework**
-A reusable UI architecture that supports animation controllers, easing functions, transitions, and component logic.
+Reusable UI engine with:
+- animation controllers  
+- easing functions  
+- transition states  
+- scalable component logic  
 
 ### ⚙️ **Utility Toolkit**
-Includes signal modules, state managers, module loaders, automated controllers, and helper utilities.
+Includes:
+- Signal modules  
+- State managers  
+- Class builders  
+- Module loaders  
+- Automated service controllers  
 
 ### 🎮 **Gameplay Systems**
-Combat logic, cooldown systems, VFX timing, physics mechanics, and character interactions.
+- Combat logic  
+- Cooldowns  
+- Timed VFX  
+- Movement mechanics  
+- Interaction systems  
 
 ---
 
-# 🧪 Code Samples (Professional)
-
-### 🟦 OOP Pattern — Clean & Reusable
+# 🧪 Code Sample — **Professional OOP Pattern**
 ```lua
 local Class = {}
 Class.__index = Class
@@ -95,8 +155,8 @@ function Class.new(config)
     }, Class)
 end
 
-function Class:Set(v)
-    self.Value = v
+function Class:Set(newValue)
+    self.Value = newValue
 end
 
 function Class:Increment()
