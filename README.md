@@ -1,64 +1,92 @@
-<!-- BANNER – auto light/dark -->
+<!-- HEADER AUTO THEME -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/banner-light.png">
-  <img alt="Helloalt12 Banner" src="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/banner-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/header-light.png">
+  <img alt="Header" src="https://raw.githubusercontent.com/helloalt12/helloalt12/main/assets/header-light.png">
 </picture>
 
----
+# 👋 Hi, I'm **helloalt12**
+### 🔥 Roblox Scripter • Luau Developer • Systems Engineer
 
-## 👋 Hi, I'm **helloalt12**
-Roblox Scripter • Luau Developer • Web Enthusiast  
-Fokus pada clean code, modular architecture, dan scalable system.
-
----
-
-# 🚀 Tech Stack
-
-### **Languages**
-> Luau • JavaScript • HTML • CSS • Python (basic)  
-
-### **Tools & Platforms**
-> Roblox Studio • VS Code • GitHub • Rojo • Node.js  
-
-### **Currently Learning**
-> Advanced Luau Patterns • UI/UX Logic • Web API
+I build **clean, modular, and scalable Roblox systems** using Luau, OOP patterns, and Rojo workflow.  
+Focused on performance, maintainability, and professional project structure.
 
 ---
 
-# 📂 Featured Projects
+# 🎮 **Roblox Development Skills**
+### **Core Scripting**
+- ✔️ Luau Scripting (modules, OOP, patterns)
+- ✔️ RemoteEvents / RemoteFunctions
+- ✔️ DataStore & ProfileService
+- ✔️ Custom systems (mechanics, tools, UI logic)
+- ✔️ Server–Client architecture
 
-### 🔹 **GoalKeeper System**
-Roblox game system with modular scripts & clean architecture.
+### **Tools & Workflow**
+- ✔️ Rojo (VSCode workflow)
+- ✔️ Git/GitHub versioning
+- ✔️ Roblox Studio Team Create
+- ✔️ Typing Luau + Linting
+- ✔️ ModuleScript architecture
 
-### 🔹 **Custom UI Framework**
-Lightweight UI module built for Roblox experience.
-
-### 🔹 **Rojo-based Project Template**
-Professional folder structure for Roblox development workflow.
-
----
-
-# 📊 GitHub Analytics (Auto Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helloalt12&show_icons=true&theme=transparent&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloalt12&layout=compact&theme=transparent&hide_border=true" height="150">
-</p>
-
----
-
-# 🌐 Connect With Me
-- 💬 Discord: **yourname#0000**
-- 📩 Email: *your-email-here*
+### **Extras**
+- ✔️ UI Scripting
+- ✔️ TweenService / Effects
+- ✔️ Optimization & Refactoring
+- ✔️ Asset automation
 
 ---
 
-# 💼 Work Philosophy
-> “Write code that not only works—  
-> but is clean, scalable, and enjoyable to maintain.”
+# 🚀 **Featured Projects**
+
+### 🔹 **⚽ GoalKeeper System**
+Multi–script system that controls goalkeeper AI, physics, animations, and ball tracking.
+
+**Tech Used:** Luau, OOP, Rojo, ModuleScript  
+**Highlights:**
+- Intelligent save logic
+- Modular & maintainable
+- Server-client synced
+- Configurable difficulty
 
 ---
 
-# 🏆 Badges
-![Profile Views](https://komarev.com/ghpvc/?username=helloalt12&style=for-the-badge&color=blue)
+### 🔹 **🧩 Custom UI Framework**
+Lightweight UI handler for buttons, animations, popups, and transitions.
+
+**Tech Used:** TweenService, ModuleScript  
+**Highlights:**
+- Reusable components  
+- Dynamic style control  
+- Clean and scalable  
+
+---
+
+### 🔹 **🔧 Roblox Utility Tools**
+Small tools that improve the development experience.
+
+Examples:
+- Signal module  
+- State manager  
+- UI animator  
+- Custom event bus  
+
+---
+
+# 📂 **Code Samples (Mini Showcase)**
+
+### **🔥 Clean Module Pattern**
+```lua
+local Module = {}
+Module.__index = Module
+
+function Module.new()
+    return setmetatable({
+        Value = 0
+    }, Module)
+end
+
+function Module:Increment()
+    self.Value += 1
+end
+
+return Module
