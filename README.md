@@ -63,7 +63,7 @@ My focus:
 
 ### 🎥 UI Animation System  
 <a href="https://youtu.be/VIDEO_ID_1">
-  <img src="https://img.youtube.com/vi/VIDEO_ID_1/maxresdefault.jpg" width="100%">
+  <img src="https://img.youtube.com/vi/9A8sQZDRn5o/maxresdefault.jpg" width="100%">
 </a>
 
 </td>
