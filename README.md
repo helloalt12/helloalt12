@@ -10,6 +10,28 @@
   Roblox Developer • Luau Scripter • Web Developer
 </p>
 
+<!-- ICON BUTTONS -->
+<div style="display:flex;flex-wrap:wrap;gap:10px;margin-bottom:20px;">
+  <a href="mailto:yourmail@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/ID" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yourusername" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.twitter.com/yourusername" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</div>
+
 <!-- ABOUT ME -->
 <h2 style="font-size:24px;font-weight:700;margin:16px 0 6px;">About Me</h2>
 <p style="font-size:15px;line-height:1.5;max-width:700px;">
@@ -65,27 +87,12 @@
 <p style="font-size:15px;line-height:1.5;">
   <b>Scripting:</b> Mini $3–$7, Medium $8–$20, Large $25+ <br>
   <b>UI:</b> Simple $2–$5, Complex $10–$20 <br>
-  <b>Web:</b> Landing Page $10–$15, Full Website $20–$40 <br>
-  <i>Depends on project complexity.</i>
+  <b>Web Development:</b> Landing Page $10–$15, Full Website $20–$40 <br>
+  <i>Pricing depends on project complexity.</i>
 </p>
 
 <!-- CONTACT -->
 <h2 style="font-size:24px;font-weight:700;margin:16px 0 6px;">Contact</h2>
 <p style="font-size:15px;margin:4px 0 10px;">
-  Contact me for commissions, collaborations, or inquiries.
-</p>
-<p>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p style="font-size:16px;margin-top:14px;">
-  Enjoy my work? Consider starring my repositories.
+  Reach me for commissions, collaborations, or questions.
 </p>
