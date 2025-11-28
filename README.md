@@ -13,21 +13,26 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ID) 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/YOUR_CHANNEL_ID) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=m7FN7Czp_-A) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+---
+
+## 🛠 Languages & Tools
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/) 
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ---
 
 ## About Me
 
 I create **clean, scalable, and maintainable** systems in Roblox and web development.  
-Focused on **performance, structure, and UX**.
-
----
-
-## Languages & Tools
-
-**HTML • CSS • JavaScript • Lua • VS Code • GitHub**
+Focused on **performance, structure, and user experience**.
 
 ---
 
@@ -35,17 +40,17 @@ Focused on **performance, structure, and UX**.
 
 ### Roblox Projects
 
-| ![Video1](https://img.youtube.com/vi/m7FN7Czp_-A/hqdefault.jpg) | ![Video2](https://img.youtube.com/vi/VIDEO_ID2/hqdefault.jpg) |
+| ![Video](https://img.youtube.com/vi/m7FN7Czp_-A/hqdefault.jpg) | ![Video](https://img.youtube.com/vi/m7FN7Czp_-A/hqdefault.jpg) |
 | --- | --- |
-| [Watch Video1](https://www.youtube.com/watch?v=m7FN7Czp_-A) | [Watch Video2](https://www.youtube.com/watch?v=VIDEO_ID2) |
+| [Watch Video](https://www.youtube.com/watch?v=m7FN7Czp_-A) | [Watch Video](https://www.youtube.com/watch?v=m7FN7Czp_-A) |
 
-| ![Video3](https://img.youtube.com/vi/VIDEO_ID3/hqdefault.jpg) | ![Video4](https://img.youtube.com/vi/VIDEO_ID4/hqdefault.jpg) |
+| ![Video](https://img.youtube.com/vi/m7FN7Czp_-A/hqdefault.jpg) | ![Video](https://img.youtube.com/vi/m7FN7Czp_-A/hqdefault.jpg) |
 | --- | --- |
-| [Watch Video3](https://www.youtube.com/watch?v=VIDEO_ID3) | [Watch Video4](https://www.youtube.com/watch?v=VIDEO_ID4) |
+| [Watch Video](https://www.youtube.com/watch?v=m7FN7Czp_-A) | [Watch Video](https://www.youtube.com/watch?v=m7FN7Czp_-A) |
 
-| ![Video5](https://img.youtube.com/vi/VIDEO_ID5/hqdefault.jpg) | ![Video6](https://img.youtube.com/vi/VIDEO_ID6/hqdefault.jpg) |
+| ![Video](https://img.youtube.com/vi/m7FN7Czp_-A/hqdefault.jpg) | ![Video](https://img.youtube.com/vi/m7FN7Czp_-A/hqdefault.jpg) |
 | --- | --- |
-| [Watch Video5](https://www.youtube.com/watch?v=VIDEO_ID5) | [Watch Video6](https://www.youtube.com/watch?v=VIDEO_ID6) |
+| [Watch Video](https://www.youtube.com/watch?v=m7FN7Czp_-A) | [Watch Video](https://www.youtube.com/watch?v=m7FN7Czp_-A) |
 
 ---
 
