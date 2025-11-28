@@ -1,99 +1,59 @@
-<!-- HERO SECTION -->
-<h1 align="center" style="font-size: 42px; font-weight: 800;">
+<!-- HERO -->
+<h1 align="center" style="font-size:34px;font-weight:800;margin:0;">
   👋 Hi, I'm <span style="color:#00D9FF;">Pru</span>
 </h1>
-
-<p align="center" style="font-size: 20px;">
-  🌟 Roblox Developer • Luau Scripter • Web Developer  
-  <br>
-  <strong style="font-size: 18px;">Building high-quality systems with clean structure & modern design</strong>
+<p align="center" style="font-size:16px;margin:4px 0;">
+  Roblox Dev • Luau • Web Dev
 </p>
 
-<br><br>
-
-<!-- ABOUT ME -->
-<h2 align="center" style="font-size: 32px; font-weight: 700;">🎨 About Me</h2>
-
-<p align="center" style="font-size: 18px; max-width: 750px; line-height: 1.7;">
-I'm a passionate developer who focuses on creating <b>clean, scalable, and maintainable</b> systems—both in 
-Roblox development and web development.  
-I prioritize structure, performance, and user experience in every project I work on.
+<!-- ABOUT -->
+<h2 align="center" style="font-size:24px;margin:18px 0 6px;">🎨 About Me</h2>
+<p align="center" style="font-size:15px;line-height:1.4;max-width:620px;">
+  I build clean, fast, and simple systems with a focus on structure and usability.
 </p>
 
-<h3 align="center" style="font-size: 22px;">🔧 Skills</h3>
-<p align="center" style="font-size: 18px; line-height: 1.6;">
-<b>Roblox:</b> Luau, OOP, Knit, UI, DataStore <br>
-<b>Web:</b> HTML, CSS, JS, Bootstrap <br>
-<b>Tools:</b> Git, VS Code, Rojo, Aftman <br>
-<b>Other:</b> UI/UX, Optimization, Debugging
+<h3 align="center" style="font-size:18px;margin:10px 0;">🔧 Skills</h3>
+<p align="center" style="font-size:15px;line-height:1.4;">
+  <b>Roblox:</b> Luau, Knit, UI, DataStore <br>
+  <b>Web:</b> HTML, CSS, JS <br>
+  <b>Tools:</b> Git, VS Code, Rojo
 </p>
-
-<br><br>
 
 <!-- PROJECTS -->
-<h2 align="center" style="font-size: 32px; font-weight: 700;">🚀 Projects</h2>
-
-<p align="center" style="font-size: 20px;"><b>Roblox Projects</b></p>
-
-<p align="center" style="font-size: 18px; line-height: 1.7;">
-🎮 Custom Admin System — Modern UI + Modular Commands <br>
-🛒 Simulator Core (Pets, Rebirth, Leaderstats) <br>
-⚔️ Combat System — Hitbox, Combo, VFX <br>
-🧩 Knit Architecture — Clean and Scalable <br>
+<h2 align="center" style="font-size:24px;margin:22px 0 8px;">🚀 Projects</h2>
+<p align="center" style="font-size:15px;line-height:1.4;">
+  🎮 Admin System • 🛒 Simulator Core • ⚔️ Combat • 🧩 Knit Modules
 </p>
-
-<p align="center" style="font-size: 20px;"><b>Website Projects</b></p>
-
-<p align="center" style="font-size: 18px; line-height: 1.7;">
-🌐 Modern Portfolio Website <br>
-🛍️ E-Commerce Styled UI <br>
-🟦 Admin Dashboard Theme <br>
+<p align="center" style="font-size:15px;line-height:1.4;">
+  🌐 Portfolio • 🛍️ UI Store • 🟦 Dashboard
 </p>
-
-<br><br>
 
 <!-- PRICING -->
-<h2 align="center" style="font-size: 32px; font-weight: 700;">💰 Pricing</h2>
-
-<p align="center" style="font-size: 18px; line-height: 1.8;">
-<b>Roblox Scripting:</b>  
-<br> Mini System: <b>$3–$7</b> • Medium: <b>$8–$20</b> • Big System: <b>$25+</b>
-<br><br>
-
-<b>UI Design:</b>  
-<br> Simple: <b>$2–$5</b> • Complex: <b>$10–$20</b>
-<br><br>
-
-<b>Website Development:</b>  
-<br> Landing Page: <b>$10–$15</b> • Full Website: <b>$20–$40</b>
-<br><br>
-
-<i>Prices depend on complexity and specific project needs.</i>
+<h2 align="center" style="font-size:24px;margin:22px 0 8px;">💰 Pricing</h2>
+<p align="center" style="font-size:15px;line-height:1.5;">
+  <b>Scripting:</b> $3–$25+ <br>
+  <b>UI:</b> $2–$20 <br>
+  <b>Web:</b> $10–$40 <br>
+  <i>Depends on project scale.</i>
 </p>
-
-<br><br>
 
 <!-- CONTACT -->
-<h2 align="center" style="font-size: 32px; font-weight: 700;">📬 Contact</h2>
-
-<p align="center" style="font-size: 18px;">
-Feel free to contact me for commissions, collaborations, or questions.
+<h2 align="center" style="font-size:24px;margin:22px 0 8px;">📬 Contact</h2>
+<p align="center" style="font-size:15px;margin:0 0 8px;">
+  Reach me anytime!
 </p>
-
 <p align="center">
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<br><br>
-
-<p align="center" style="font-size: 20px;">
-  ⭐ <b>Enjoy my work? Consider starring my repositories!</b> ⭐
+<p align="center" style="font-size:16px;margin-top:16px;">
+  ⭐ Enjoy my work? Star my repos! ⭐
 </p>
