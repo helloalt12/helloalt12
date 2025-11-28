@@ -9,11 +9,11 @@
 
 ## 🔗 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ID)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/YOUR_CHANNEL_ID)  
+[![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ID) 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/YOUR_CHANNEL_ID) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
@@ -21,16 +21,13 @@
 ## About Me
 
 I create **clean, scalable, and maintainable** systems in Roblox and web development.  
-Focused on **performance, structure, and UX** in every project.
+Focused on **performance, structure, and UX**.
 
 ---
 
-## Skills
+## Languages & Tools
 
-**Roblox:** Luau, OOP, Knit, UI, DataStore  
-**Web:** HTML, CSS, JavaScript, Bootstrap  
-**Tools:** Git, VS Code, Rojo  
-**Other:** UI/UX, Optimization, Debugging
+**HTML • CSS • JavaScript • Lua • VS Code • GitHub**
 
 ---
 
