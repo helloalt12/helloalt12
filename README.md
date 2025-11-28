@@ -7,7 +7,7 @@
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ID)  
@@ -20,8 +20,8 @@
 
 ## About Me
 
-I create clean, scalable, and maintainable systems in Roblox and web development.  
-Focused on performance, structure, and user experience.
+I create **clean, scalable, and maintainable** systems in Roblox and web development.  
+Focused on **performance, structure, and UX** in every project.
 
 ---
 
@@ -37,9 +37,10 @@ Focused on performance, structure, and user experience.
 ## Projects
 
 ### Roblox Projects
-| ![Video1](https://img.youtube.com/vi/VIDEO_ID1/hqdefault.jpg) | ![Video2](https://img.youtube.com/vi/VIDEO_ID2/hqdefault.jpg) |
+
+| ![Video1](https://img.youtube.com/vi/m7FN7Czp_-A/hqdefault.jpg) | ![Video2](https://img.youtube.com/vi/VIDEO_ID2/hqdefault.jpg) |
 | --- | --- |
-| [Watch Video1](https://www.youtube.com/watch?v=VIDEO_ID1) | [Watch Video2](https://www.youtube.com/watch?v=VIDEO_ID2) |
+| [Watch Video1](https://www.youtube.com/watch?v=m7FN7Czp_-A) | [Watch Video2](https://www.youtube.com/watch?v=VIDEO_ID2) |
 
 | ![Video3](https://img.youtube.com/vi/VIDEO_ID3/hqdefault.jpg) | ![Video4](https://img.youtube.com/vi/VIDEO_ID4/hqdefault.jpg) |
 | --- | --- |
@@ -53,15 +54,16 @@ Focused on performance, structure, and user experience.
 
 ## Pricing
 
-**Scripting:** Mini $3–$7, Medium $8–$20, Large $25+  
-**UI Design:** Simple $2–$5, Complex $10–$20  
-**Web Development:** Landing Page $10–$15, Full Website $20–$40  
+**Scripting:** Mini $3–$7 | Medium $8–$20 | Large $25+  
+**UI Design:** Simple $2–$5 | Complex $10–$20  
+**Web Development:** Landing Page $10–$15 | Full Website $20–$40  
+
 *Pricing depends on project complexity.*
 
 ---
 
 ## Contact
 
-Reach me for commissions, collaborations, or inquiries.
+Reach me for **commissions, collaborations, or inquiries**.  
 
 [Email Me](mailto:yourmail@gmail.com) | [Discord](https://discord.com/users/ID) | [GitHub](https://github.com/yourusername)
