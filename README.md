@@ -21,10 +21,4 @@ I'm a **13-year-old developer** with **3 years of experience in Roblox Studio**.
 
 ---
 
-## 📫 Contact Me
-- Discord: `YourDiscord#0000`
-- Twitter: [@YourTwitter](https://twitter.com/YourTwitter)
-
----
-
 *“Code, create, and inspire!”* ✨
